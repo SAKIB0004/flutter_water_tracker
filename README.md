@@ -15,8 +15,8 @@ A simple and clean Flutter app that helps you track your daily water intake. Sta
 
 ## 📸 Screenshots
 
-| Main Screen | Progress Updated | Reset SnackBar |
-|-------------|------------------|----------------|
-| ![Main](1.png) | ![Progress](1.png) | ![Reset](1.png) |
+| Main Screen | Progress Updated   | Reset SnackBar  |
+|-------------|--------------------|-----------------|
+| ![Main](1.png) | ![Progress](2.png) | ![Reset](3.png) |
 
 ---
